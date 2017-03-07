@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:23:24 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/07 18:45:36 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/08 00:15:01 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,5 +23,17 @@ typedef struct	s_grid
 	char		**table;
 	char		player;
 }				t_grid;
+
+typedef struct	s_piece
+{
+	int			col;
+	int			line;
+	int			xmin;
+	int			xmax;
+	int			ymin;
+	int			ymax;
+	char		*raw;
+	char		*edited;
+}				t_piece;
 
 #endif
