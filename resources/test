@@ -1,8 +1,9 @@
-$$$ exec p1 : [../filler/a.out]
-Plateau 15 17:
-15
-17
-.................
+
+
+536870912
+0
+line =
+lol.................
 .................
 .................
 .................
@@ -17,7 +18,10726 @@ Plateau 15 17:
 ..............X..
 .................
 .................
-.*
-.*
+***
+...
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :2
+put i = :0
+count = :3
+pos[0] = :8
+pos[1] = :2
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.................
+..OOO............
+.................
+.................
+.................
+............XXX..
+.................
+.................
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :8
+pos[1] = :4
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.................
+..OOOO...........
+.................
+.................
+...........X.....
+...........XXXX..
+.................
+.................
+***
+...
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :2
+put i = :0
+count = :3
+pos[0] = :8
+pos[1] = :5
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.................
+..OOOOOO.........
+.................
+...........X.....
+...........XX....
+...........XXXX..
+.................
+.................
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :8
+pos[1] = :7
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.................
+..OOOOOOO........
+.................
+...........XX....
+...........XX....
+...........XXXX..
+.................
+.................
+***
+.**
+Nombre d'* : 5
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :2
+put i = :0
+count = :3
+put j = :1
+put i = :1
+count = :4
+put j = :2
+put i = :1
+count = :5
+pos[0] = :8
+pos[1] = :8
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.................
+..OOOOOOOOO......
+.........OOX.....
+...........XX....
+...........XX....
+...........XXXX..
+.................
+.................
 *
 *
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+count = :2
+pos[0] = :8
+pos[1] = :2
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.................
+..OOOOOOOOOX.....
+..O......OOX.....
+...........XX....
+...........XX....
+...........XXXX..
+.................
+.................
+.**
+..*
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+count = :2
+put j = :2
+put i = :1
+count = :3
+pos[0] = :9
+pos[1] = :1
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+...........X.....
+..OOOOOOOOOX.....
+..OO.....OOX.....
+...O.......XX....
+...........XX....
+...........XXXX..
+.................
+.................
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :9
+pos[1] = :3
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+..OOOOOOOOOX.....
+..OOO....OOX.....
+...O.......XX....
+...........XX....
+...........XXXX..
+.................
+.................
+***
+..*
+Nombre d'* : 4
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :2
+put i = :0
+count = :3
+put j = :2
+put i = :1
+count = :4
+pos[0] = :9
+pos[1] = :4
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+..OOOOOOOOOX.....
+..OOOOO..OOX.....
+...O..O...XXX....
+..........XXX....
+...........XXXX..
+.................
+.................
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :9
+pos[1] = :6
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+...........X.....
+.........XXX.....
+..OOOOOOOOOX.....
+..OOOOOO.OOX.....
+...O..O...XXX....
+..........XXX....
+...........XXXX..
+.................
+.................
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :9
+pos[1] = :7
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+...........X.....
+........XXXX.....
+..OOOOOOOOOX.....
+..OOOOOOOOOX.....
+...O..O...XXX....
+..........XXX....
+...........XXXX..
+.................
+.................
+.**
+.**
+Nombre d'* : 4
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+10
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+count = :2
+put j = :1
+put i = :1
+count = :3
+put j = :2
+put i = :1
+count = :4
+pos[0] = :10
+pos[1] = :2
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+..........XX.....
+........XXXX.....
+..OOOOOOOOOX.....
+..OOOOOOOOOX.....
+...OO.O...XXX....
+...OO.....XXX....
+...........XXXX..
+.................
+.................
+**
+..
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :10
+pos[1] = :4
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+........XXXX.....
+..OOOOOOOOOX.....
+..OOOOOOOOOX.....
+...OOOO...XXX....
+...OO.....XXX....
+...........XXXX..
+.................
+.................
+**.
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :10
+pos[1] = :6
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+........XXXX.....
+..OOOOOOOOOX.....
+..OOOOOOOOOX.....
+...OOOOO.XXXX....
+...OO.....XXX....
+...........XXXX..
+.................
+.................
+**
+..
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :10
+pos[1] = :7
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+........XXXX.....
+..OOOOOOOOOX.....
+..OOOOOOOOOX.....
+...OOOOOOXXXX....
+...OO....XXXX....
+...........XXXX..
+.................
+.................
+***
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :2
+put i = :0
+count = :3
+pos[0] = :11
+pos[1] = :4
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+........XXXX.....
+..OOOOOOOOOX.....
+..OOOOOOOOOXXX...
+...OOOOOOXXXXX...
+...OOOO..XXXX....
+...........XXXX..
+.................
+.................
+**
+.*
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+11
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :1
+put i = :1
+count = :3
+pos[0] = :11
+pos[1] = :6
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+........XXXX.....
+..OOOOOOOOOXX....
+..OOOOOOOOOXXX...
+...OOOOOOXXXXX...
+...OOOOO.XXXX....
+.......O...XXXX..
+.................
+.................
+..*
+**.
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :2
+wldc i = :0
+entry j = :3
+entry i = :0
+put j = :0
+put i = :1
+count = :2
+put j = :1
+put i = :1
+count = :3
+pos[0] = :8
+pos[1] = :0
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.........XXX.....
+........XXXXX....
+..OOOOOOOOOXX....
+OOOOOOOOOOOXXX...
+...OOOOOOXXXXX...
+...OOOOO.XXXX....
+.......O...XXXX..
+.................
+.................
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :11
+pos[1] = :7
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+........XXXX.....
+........XXXXX....
+..OOOOOOOOOXX....
+OOOOOOOOOOOXXX...
+...OOOOOOXXXXX...
+...OOOOOOXXXX....
+.......O...XXXX..
+.................
+.................
+*.
+**
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+count = :2
+put j = :1
+put i = :1
+count = :3
+pos[0] = :9
+pos[1] = :0
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+........XXXXX....
+........XXXXX....
+..OOOOOOOOOXX....
+OOOOOOOOOOOXXX...
+OO.OOOOOOXXXXX...
+...OOOOOOXXXX....
+.......O...XXXX..
+.................
+.................
+*
+*
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+count = :2
+pos[0] = :9
+pos[1] = :2
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+........XXXXX....
+........XXXXX....
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+...OOOOOOXXXX....
+.......O...XXXX..
+.................
+.................
+**
+.*
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 33
+11
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 34
+11
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 35
+11
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 36
+12
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :1
+put i = :1
+count = :3
+pos[0] = :12
+pos[1] = :7
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+........XXXXX....
+........XXXXX....
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+...OOOOOOXXXX....
+.......OO.XXXXX..
+........O........
+.................
+***
+Nombre d'* : 3
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 33
+11
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 34
+11
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 35
+11
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 36
+12
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 37
+12
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 38
+13
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+put j = :2
+put i = :0
+count = :3
+pos[0] = :13
+pos[1] = :8
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+........XXXXX....
+.......XXXXXX....
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+...OOOOOOXXXX....
+.......OO.XXXXX..
+........OOO......
+.................
+*
+*
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+count = :2
+pos[0] = :10
+pos[1] = :0
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX....
+.......XXXXXX....
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+O..OOOOOOXXXX....
+.......OO.XXXXX..
+........OOO......
+.................
+.**
+.**
+Nombre d'* : 4
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+count = :2
+put j = :1
+put i = :1
+count = :3
+put j = :2
+put i = :1
+count = :4
+pos[0] = :11
+pos[1] = :-1
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX....
+.......XXXXXXX...
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+OO.OOOOOOXXXX....
+OO.....OO.XXXXX..
+........OOO......
+.................
+.**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :2
+put i = :0
+count = :2
+pos[0] = :11
+pos[1] = :0
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX....
+.......XXXXXXX...
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+OOOOOOOOOXXXX....
+OO.....OO.XXXXX..
+........OOOXX....
+.................
+.*
+.*
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+1
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+2
+
+putpiece
+wldc j = :1
+wldc i = :0
+entry j = :2
+entry i = :0
+put j = :1
+put i = :1
+count = :2
+pos[0] = :11
+pos[1] = :1
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX....
+......XXXXXXXX...
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+OOOOOOOOOXXXX....
+OOO....OO.XXXXX..
+........OOOXX....
+.................
+*
+*
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 33
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+count = :2
+pos[0] = :11
+pos[1] = :3
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX....
+......XXXXXXXX...
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXX...
+OOOOOOOOOXXXXX...
+OOOOOOOOOXXXXX...
+OOOO...OO.XXXXX..
+........OOOXX....
+.................
+**
+..
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 33
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 34
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 35
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 36
+11
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 37
+11
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 38
+11
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 39
+12
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 40
+12
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 41
+12
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 42
+12
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+count = :2
+pos[0] = :12
+pos[1] = :3
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX....
+......XXXXXXXX...
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXXX..
+OOOOOOOOOXXXXXX..
+OOOOOOOOOXXXXXX..
+OOOOO..OO.XXXXX..
+........OOOXX....
+.................
+*
+*
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 33
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 34
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 35
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :0
+put i = :1
+count = :2
+pos[0] = :11
+pos[1] = :5
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX.X..
+......XXXXXXXXX..
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXXX..
+OOOOOOOOOXXXXXX..
+OOOOOOOOOXXXXXX..
+OOOOOO.OO.XXXXX..
+........OOOXX....
+.................
+..
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+1
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+2
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 33
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 34
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 35
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 36
+11
+6
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 37
+11
+7
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 38
+11
+8
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 39
+12
+0
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 40
+12
+1
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 41
+12
+2
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 42
+12
+3
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 43
+12
+4
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 44
+12
+5
+
+putpiece
+wldc j = :0
+wldc i = :1
+entry j = :1
+entry i = :1
+put j = :1
+put i = :1
+count = :2
+pos[0] = :11
+pos[1] = :5
+pose piece
+line =
+lol.................
+.................
+.................
+.................
+.................
+.................
+.......XXXXXX.X..
+......XXXXXXXXX..
+..OOOOOOOOOXXXX..
+OOOOOOOOOOOXXXX..
+OOOOOOOOOXXXXXX..
+OOOOOOOOOXXXXXX..
+OOOOOOOOOXXXXXX..
+........OOOXX....
+.................
+**
+Nombre d'* : 2
+
+find_Ox
+nb = 1
+8
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 2
+8
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 3
+8
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 4
+8
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 5
+8
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 6
+8
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 7
+8
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 8
+8
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 9
+8
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 10
+9
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 11
+9
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 12
+9
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 13
+9
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 14
+9
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 15
+9
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 16
+9
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 17
+9
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 18
+9
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 19
+9
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 20
+9
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 21
+10
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 22
+10
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 23
+10
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 24
+10
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 25
+10
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 26
+10
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 27
+10
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 28
+10
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 29
+10
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 30
+11
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 31
+11
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 32
+11
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 33
+11
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 34
+11
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 35
+11
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 36
+11
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 37
+11
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 38
+11
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 39
+12
+0
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 40
+12
+1
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 41
+12
+2
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 42
+12
+3
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 43
+12
+4
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 44
+12
+5
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 45
+12
+6
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 46
+12
+7
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 47
+12
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 48
+13
+8
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 49
+13
+9
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 50
+13
+10
+
+putpiece
+wldc j = :0
+wldc i = :0
+entry j = :1
+entry i = :0
+put j = :1
+put i = :0
+pas possible a ces coord
+retour main
+
+find_Ox
+nb = 51

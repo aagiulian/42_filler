@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/11/15 00:35:07 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/07 17:38:01 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/08 16:45:15 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,7 +26,7 @@ t_fd	*lstpush_or_modify(t_list **begin, int fd)
 {
 	t_list	*lst;
 	t_fd	*new;
-
+	
 	lst = *begin;
 	while (lst)
 	{

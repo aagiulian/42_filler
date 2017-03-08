@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:20:48 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/08 11:50:31 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/08 16:53:38 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,20 +19,20 @@ void	get_player(t_grid *grid, char **line)
 		grid->player = 'O';
 	else
 		grid->player = 'X';
-	free(*line);
+	ft_strdel(line);
+	//free(*line);
 }
 
 void	get_grid_size(t_grid *grid, char **line)
 {
 	char *str;
 
-	get_next_line(0, line);
 	str = *line + 8;
 	grid->line = ft_atoi(str);
 	while (*str != ' ')
 		str++;
 	grid->col = ft_atoi(str + 1);
-	free(*line);
+	ft_strdel(line);
 }
 
 void	get_piece_size(t_piece *piece, char **line)
@@ -45,7 +45,7 @@ void	get_piece_size(t_piece *piece, char **line)
 	while (*str != ' ')
 		str++;
 	piece->col = ft_atoi(str + 1);
-	free(*line);
+	ft_strdel(line);
 }
 
 void	get_piece(t_piece *piece, char **line)
@@ -59,7 +59,7 @@ void	get_piece(t_piece *piece, char **line)
 	{
 		get_next_line(0, line);
 		piece->piece[i] = ft_strdup(*line);
-		free(*line);
+		ft_strdel(line);
 		i++;
 	}
 	piece->piece[i] = NULL;
@@ -74,12 +74,12 @@ void	get_grid(t_grid *grid, char **line)
 		grid->table = (char**)malloc(sizeof(char*) * grid->line + 1);
 	i = 0;
 	get_next_line(0, line);
-	free(*line);
+	ft_strdel(line);
 	while (i < grid->line)
 	{
 		get_next_line(0, line);
 		grid->table[i] = ft_strdup(*line + 4);
-		free(*line);
+		ft_strdel(line);
 		i++;
 	}
 	grid->table[i] = NULL;
