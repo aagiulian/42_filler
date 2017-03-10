@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:23:24 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/08 17:08:18 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/10 19:51:38 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,17 +23,28 @@ typedef struct	s_grid
 	int			change;
 	char		**table;
 	char		player;
+	int			player_tot;
+	int			*player_pos;
 }				t_grid;
 
 typedef struct	s_piece
 {
 	int			col;
 	int			line;
-	int			wldc;
-	int			posx;
-	int			posy;
+	int			wldc_tot;
+	int			wldc_x;
+	int			wldc_y;
 	char		**piece;
+	int			pos_nb;
+	int			*pos;
 }				t_piece;
+
+typedef struct	s_pos
+{
+	int			x;
+	int			y;
+	int			score;
+}				t_pos;
 
 void			get_player(t_grid *grid, char **line);
 void			get_grid_size(t_grid *grid, char **line);
@@ -42,7 +53,8 @@ void			get_piece(t_piece *piece, char **line);
 void			delete_piece(t_piece *piece);
 void			get_grid(t_grid *grid, char **line);
 void			parse_piece_wldc(t_piece *piece);
-int				put_piece(t_piece *piece, t_grid *grid, int *pos, int nb);
+int				put_piece(t_grid *grid, t_piece *piece, int wldc_nb);
 int				*find_o_x(t_grid *grid, int nb, int *pos);
+int				*find_pos(t_grid *grid, t_piece *piece);
 
 #endif

@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/08 10:50:32 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/08 17:21:15 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/10 23:48:39 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ int		main(void)
 	char	*line;
 	int		fd;
 	int		i;
-	int		nb;
+	//int		nb;
 	int		*pos;
 
 	i = 0;
@@ -60,15 +60,16 @@ int		main(void)
 		}
 		i = 1;
 		parse_piece_wldc(piece);
-		pos = find_o_x(grid, i, pos);
-		while (put_piece(piece, grid, pos, 1) == 0)
+		if (!(pos = find_pos(grid, piece)))
 		{
-			if (grid->change == 1)
-				exit (0);
-			i++;
-			pos = find_o_x(grid, i, pos);
+		ft_putstr_fd("LOL", 2);
+			return (0);
 		}
-		ft_printf("%i %i\n", pos[0], pos[1]);
+		else
+			ft_printf("%i %i\n", pos[0], pos[1]);
+		ft_putnbr_fd(pos[0], 2);
+		ft_putstr_fd(" ", 2);
+		ft_putnbr_fd(pos[1], 2);
 		delete_piece(piece);
 	}
 	return (0);
