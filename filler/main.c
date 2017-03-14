@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/08 10:50:32 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/10 23:48:39 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/11 18:59:54 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,6 +30,7 @@ int		main(void)
 	grid = malloc(sizeof(t_grid));
 	piece = malloc(sizeof(t_piece));
 	grid->table = NULL;
+	grid->enemy_start_pos = -1;
 	get_player(grid, &line);
 	ft_putendl_fd(line, fd);
 	ft_putendl_fd(line, fd);
@@ -46,6 +47,8 @@ int		main(void)
 		ft_putendl_fd(line, fd);
 		ft_putstr_fd("lol", 2);
 		get_grid(grid, &line);
+		if (grid->enemy_start_pos < 0)
+			get_enemy_start_pos(grid);
 		get_piece(piece, &line);
 		while (i < grid->line)
 		{

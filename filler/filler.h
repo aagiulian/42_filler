@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:23:24 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/10 19:51:38 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/11 18:57:22 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,7 @@ typedef struct	s_grid
 	char		player;
 	int			player_tot;
 	int			*player_pos;
+	int			enemy_start_pos;
 }				t_grid;
 
 typedef struct	s_piece
@@ -43,6 +44,7 @@ typedef struct	s_pos
 {
 	int			x;
 	int			y;
+	int			pos;
 	int			score;
 }				t_pos;
 
@@ -56,5 +58,6 @@ void			parse_piece_wldc(t_piece *piece);
 int				put_piece(t_grid *grid, t_piece *piece, int wldc_nb);
 int				*find_o_x(t_grid *grid, int nb, int *pos);
 int				*find_pos(t_grid *grid, t_piece *piece);
+void    		get_enemy_start_pos(t_grid *grid);
 
 #endif

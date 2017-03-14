@@ -6,11 +6,33 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:20:48 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/08 16:53:38 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/11 18:59:21 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "filler.h"
+
+void	get_enemy_start_pos(t_grid *grid)
+{
+	int	i;
+	int	j;
+
+	ft_putendl_fd("entree get enemy start", 2);
+	i = 0;
+	while (grid->table[i])
+	{
+		j = 0;
+		while (grid->table[i][j])
+		{
+			if ((grid->player == 'O' && grid->table[i][j] == 'X') || \
+				(grid->player == 'X' && grid->table[i][j] == 'O'))
+				grid->enemy_start_pos = i * grid->col + j;
+			j++;
+		}
+		i++;
+	}
+	ft_putendl_fd("sortie get enemy start", 2);
+}
 
 void	get_player(t_grid *grid, char **line)
 {
