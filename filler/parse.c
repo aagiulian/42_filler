@@ -6,30 +6,24 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:20:48 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/11 18:59:21 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/14 16:25:41 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "filler.h"
 
-void	get_enemy_start_pos(t_grid *grid)
+void	get_direction(t_grid *grid)
 {
-	int	i;
-	int	j;
-
 	ft_putendl_fd("entree get enemy start", 2);
-	i = 0;
-	while (grid->table[i])
+	if (grid->player == 'O')
 	{
-		j = 0;
-		while (grid->table[i][j])
-		{
-			if ((grid->player == 'O' && grid->table[i][j] == 'X') || \
-				(grid->player == 'X' && grid->table[i][j] == 'O'))
-				grid->enemy_start_pos = i * grid->col + j;
-			j++;
-		}
-		i++;
+		grid->direction_1 = grid->line * grid->col - 1;
+		grid->direction_2 = grid->col - 1; 
+	}
+	else
+	{
+		grid->direction_1 = 0;
+		grid->direction_2 = grid->line * grid->col - grid->col;
 	}
 	ft_putendl_fd("sortie get enemy start", 2);
 }
@@ -42,7 +36,6 @@ void	get_player(t_grid *grid, char **line)
 	else
 		grid->player = 'X';
 	ft_strdel(line);
-	//free(*line);
 }
 
 void	get_grid_size(t_grid *grid, char **line)
@@ -92,6 +85,14 @@ void	get_grid(t_grid *grid, char **line)
 	int	i;
 
 	i = 0;
+	if (grid->table)
+	{
+		while (grid->table[i])
+		{
+			ft_strdel(&grid->table[i]);
+			i++;
+		}
+	}
 	if (grid->table == NULL)
 		grid->table = (char**)malloc(sizeof(char*) * grid->line + 1);
 	i = 0;
