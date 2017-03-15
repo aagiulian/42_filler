@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/08 10:50:32 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/14 19:17:00 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/15 21:04:34 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,13 +42,15 @@ int		main(void)
 	ft_putendl_fd("", fd);
 	grid->change = 0;
 	grid->dir = 1;
+	grid->pos1 = 0;
+	grid->pos2 = grid->line * grid->col - 1;
 	while (get_next_line(0, &line) == 1)
 	{
 		i = 0;
 		ft_putstr_fd("line =", fd);
 		get_grid_size(grid, &line);
-		if (grid->pos2 == -1)
-			grid->pos2 = grid->col * grid->line - 1;
+	//	if (grid->pos2 == -1)
+	//		grid->pos2 = grid->col * grid->line - 1;
 		ft_putendl_fd(line, fd);
 		ft_putstr_fd("lol", 2);
 		get_grid(grid, &line);
@@ -66,6 +68,7 @@ int		main(void)
 			ft_putendl_fd(piece->piece[i], fd);
 			i++;
 		}
+		simplify_piece(piece);
 		i = 1;
 		parse_piece_wldc(piece);
 		if (!(pos = find_pos(grid, piece)))

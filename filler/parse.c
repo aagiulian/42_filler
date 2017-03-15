@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:20:48 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/14 16:25:41 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/15 16:40:32 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -78,6 +78,7 @@ void	get_piece(t_piece *piece, char **line)
 		i++;
 	}
 	piece->piece[i] = NULL;
+	get_piece_width_height(piece);
 }
 
 void	get_grid(t_grid *grid, char **line)
