@@ -6,7 +6,7 @@
 #    By: agiulian <arthur.giuliano@student.42.fr>   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2016/09/17 22:23:16 by agiulian          #+#    #+#              #
-#    Updated: 2017/03/17 18:39:47 by agiulian         ###   ########.fr        #
+#    Updated: 2017/03/20 13:33:37 by agiulian         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -17,7 +17,8 @@ NAME = agiulian.filler
 SRC = filler/position.c \
 	  filler/main.c \
 	  filler/putpiece.c \
-	  filler/parse.c
+	  filler/parse.c \
+	  filler/parsepiece.c
 
 
 HEAD = -Ilibft/includes/ -Iprintf/. -I.
@@ -42,7 +43,7 @@ $(NAME): $(OBJ)
 
 clean:
 	@make clean -C libft
-	@rm -f $(OBJECT) && $(ECHO) "\033[32m[Deleting filler objects]\033[0m\n"
+	@rm -f $(OBJ) && $(ECHO) "\033[32m[Deleting filler objects]\033[0m\n"
 
 fclean: clean
 	@make fclean -C libft

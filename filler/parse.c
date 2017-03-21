@@ -6,27 +6,11 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/07 17:20:48 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/16 14:12:23 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/20 12:59:55 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "filler.h"
-
-void	get_direction(t_grid *grid)
-{
-	ft_putendl_fd("entree get enemy start", 2);
-	if (grid->player == 'O')
-	{
-		grid->direction_1 = grid->line * grid->col - 1;
-		grid->direction_2 = grid->col - 1;
-	}
-	else
-	{
-		grid->direction_1 = 0;
-		grid->direction_2 = grid->line * grid->col - grid->col;
-	}
-	ft_putendl_fd("sortie get enemy start", 2);
-}
 
 void	get_player(t_grid *grid, char **line)
 {

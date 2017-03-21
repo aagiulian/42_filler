@@ -6,39 +6,71 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/16 14:35:57 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/16 15:36:23 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/20 18:02:08 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <unistd.h>
+#include "sfiller.h"
 
-int	main(void)
+void	print_header(void)
 {
-	char *filler_path;
-	char **maps;
-	char **players;
-	char *p1;
-	char *p2;
-	
-	filler_path = "./filler_vm";
-	p1 = "-p1";
-	p2 = "-p2";
-	maps = (char**)malloc(sizeof(char*) * 4);
-	maps[0] = " -f maps/maps00";
-	maps[1] = " -f maps/maps01";
-	maps[2] = " -f maps/maps02";
-	maps[3] = NULL;
-	players = (char**)malloc(sizeof(char*) * 8);
-	players[0] = " players/agiulian.filler";
-	players[1] = " players/abanlin.filler";
-	players[2] = " players/carli.filler";
-	players[3] = " players/champely.filler";
-	players[4] = " players/grati.filler";
-	players[5] = " players/hcao.filler";
-	players[6] = " players/superjeannot.filler";
-	players[7] = NULL;
-	execl(filler_path, maps[0], p1, players[1]);
+	printf("-------------------------------------------\n");
+	printf("-----------FILLER ANALYSIS SCRIPT----------\n");
+	printf("-------------------------------by agiulian-\n\n");
+	printf("RULES :\n");
+	printf("        Players should be in ./players/\n");
+	printf("        Maps should be in ./maps/\n");
+	printf("        VM should be in current directory\n");
+	printf("        Maps 00, 01 and 02 will be played\n");
+	printf("        Player will play in both position\n");
+	printf("        If more than 3/5 victories\n");
+	printf("        WIN otherwise LOOSE\n");
+	printf("        GOOD LUCK\n\n");
+}
+
+void	print_result(char *player1, char *player2, int nb, int score)
+{
+	printf("%-12s VS    %-12s :", player1, player2);
+	printf(" [%i/%i] ", score, nb);
+	if (score > (nb / 2))
+		printf("\x1B[32mWin\x1B[0m\n");
+	else
+		printf("\x1B[31mLoose\x1B[0m\n");
+}
+
+void	fill_players(t_prm *prm)
+{
+	prm->player_nb = 6;
+	if (!(prm->player_lst = (char**)malloc(sizeof(char*) * prm->player_nb \
+					+ 1)))
+		exit(-1);
+	prm->player_lst[0] = "abanlin";
+	prm->player_lst[1] = "carli";
+	prm->player_lst[2] = "champely";
+	prm->player_lst[3] = "grati";
+	prm->player_lst[4] = "hcao";
+	prm->player_lst[5] = "superjeannot";
+	prm->player_lst[6] = NULL;
+}
+
+int		main(void)
+{
+	char	player_name[21];
+	t_prm	*prm;
+
+	print_header();
+	if (!(prm = malloc(sizeof(t_prm))))
+		exit(-1);
+	fill_players(prm);
+	prm->entry = malloc(150);
+	printf("Enter player name :\n(max 20 char)\n");
+	scanf("%s", player_name);
+	printf("Enter number of games to be played :\n");
+	printf("(max 10 char for time issue)\n");
+	scanf("%i", &prm->nb);
+	printf("\n Let's go %s, may the force be with you !\n\n", player_name);
+	map00(prm, player_name);
+	map01(prm, player_name);
+	map02(prm, player_name);
 	return (0);
 }
