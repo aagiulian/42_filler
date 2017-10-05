@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/20 15:58:04 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/20 16:45:17 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/21 18:51:15 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,12 +21,16 @@
 
 typedef struct	s_prm
 {
-	int			nb;
+	int			nb1;
+	int			nb2;
+	char		*response;
 	char		*system;
 	char		**player_lst;
 	int			player_nb;
 	int			fd;
 	char		*entry;
+	int			p1;
+	int			p2;
 	char		buf[4097];
 }				t_prm;
 

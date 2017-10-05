@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/20 16:24:17 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/20 17:36:08 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/21 18:52:59 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,10 @@ void	map01(t_prm *prm, char player[21])
 	printf("\n\n-------------------------------------------\n");
 	printf("|------------------MAP 1------------------|\n");
 	printf("-------------------------------------------\n\n");
-	map01p1(prm, player);
-	map01p2(prm, player);
+	if (prm->nb1)
+		map01p1(prm, player);
+	if (prm->nb2)
+		map01p2(prm, player);
 }
 
 void	map01p1(t_prm *prm, char player[21])
@@ -32,7 +34,7 @@ void	map01p1(t_prm *prm, char player[21])
 	{
 		score = 0;
 		j = 0;
-		while (j < prm->nb)
+		while (j < prm->nb1)
 		{
 			sprintf(prm->entry, "ruby filler_vm -q -f maps/map01 -p1 \
 			players/%s.filler -p2 players/%s.filler > /dev/null", player, \
@@ -45,7 +47,7 @@ void	map01p1(t_prm *prm, char player[21])
 				score++;
 			j++;
 		}
-		print_result(player, prm->player_lst[i], prm->nb, score);
+		print_result(player, prm->player_lst[i], prm->nb1, score);
 		i++;
 	}
 }
@@ -61,7 +63,7 @@ void	map01p2(t_prm *prm, char player[21])
 	{
 		score = 0;
 		j = 0;
-		while (j < prm->nb)
+		while (j < prm->nb2)
 		{
 			sprintf(prm->entry, "ruby filler_vm -q -f maps/map01 -p1 \
 			players/%s.filler -p2 players/%s.filler > /dev/null", \
@@ -74,7 +76,7 @@ void	map01p2(t_prm *prm, char player[21])
 				score++;
 			j++;
 		}
-		print_result(prm->player_lst[i], player, prm->nb, score);
+		print_result(prm->player_lst[i], player, prm->nb2, score);
 		i++;
 	}
 }

@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/16 14:35:57 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/20 18:02:08 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/21 18:54:34 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,8 +22,7 @@ void	print_header(void)
 	printf("        Maps should be in ./maps/\n");
 	printf("        VM should be in current directory\n");
 	printf("        Maps 00, 01 and 02 will be played\n");
-	printf("        Player will play in both position\n");
-	printf("        If more than 3/5 victories\n");
+	printf("        If more than 1/2 victories\n");
 	printf("        WIN otherwise LOOSE\n");
 	printf("        GOOD LUCK\n\n");
 }
@@ -53,6 +52,31 @@ void	fill_players(t_prm *prm)
 	prm->player_lst[6] = NULL;
 }
 
+void	config(t_prm *prm, char player_name[21])
+{
+	prm->entry = malloc(150);
+	prm->response = malloc(100);
+	prm->nb1 = 0;
+	prm->nb2 = 0;
+	printf("Enter player name :\n(max 20 char)\n");
+	scanf("%s", player_name);
+	printf("Do you wish to play as p1 ? (y or n)\n");
+	scanf("%s", prm->response);
+	if (prm->response[0] == 'y')
+	{
+		printf("Enter number of games to be played as p1 :\n");
+		scanf("%i", &prm->nb1);
+	}
+	printf("Do you wish to play as p2 ? (y or n)\n");
+	scanf("%s", prm->response);
+	if (prm->response[0] == 'y')
+	{
+		printf("Enter number of games to be played as p2 :\n");
+		scanf("%i", &prm->nb2);
+	}
+	printf("\n Let's go %s, may the force be with you !\n\n", player_name);
+}
+
 int		main(void)
 {
 	char	player_name[21];
@@ -62,13 +86,7 @@ int		main(void)
 	if (!(prm = malloc(sizeof(t_prm))))
 		exit(-1);
 	fill_players(prm);
-	prm->entry = malloc(150);
-	printf("Enter player name :\n(max 20 char)\n");
-	scanf("%s", player_name);
-	printf("Enter number of games to be played :\n");
-	printf("(max 10 char for time issue)\n");
-	scanf("%i", &prm->nb);
-	printf("\n Let's go %s, may the force be with you !\n\n", player_name);
+	config(prm, player_name);
 	map00(prm, player_name);
 	map01(prm, player_name);
 	map02(prm, player_name);

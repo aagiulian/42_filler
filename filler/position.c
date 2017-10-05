@@ -6,7 +6,7 @@
 /*   By: agiulian <agiulian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/14 14:53:55 by agiulian          #+#    #+#             */
-/*   Updated: 2017/03/20 14:16:49 by agiulian         ###   ########.fr       */
+/*   Updated: 2017/03/24 16:28:38 by agiulian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -129,7 +129,7 @@ int		find_pos_dir_two(t_grid *grid, t_piece *piece)
 	while (grid->pos2 >= 0 && get_pos_from_end(grid, piece, grid->pos2))
 	{
 		grid->pos = grid->pos2;
-		if (put_piece_reverse(grid, piece))
+		if (put_piece(grid, piece))
 			return (1);
 		grid->pos2--;
 	}
